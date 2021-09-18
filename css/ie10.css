@@ -1,0 +1,33 @@
+/*IE10 & 11*/
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active){
+  .container {
+    display: block;
+    padding: 0 5%;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  nav a {
+    padding: 24px 0;
+    display: inline-block; 
+  }
+/* IE11 */
+  *::-ms-backdrop, .container {
+        display: block;
+        padding: 0 5%;
+        max-width: 960px;
+        margin: 0 auto;
+  } 
+  nav {
+    padding: 24px 0;
+    display: inline-block; 
+  }
+}
+/*EDGE*/
+@supports (-ms-ime-align:auto), (-ms-accelerator:true) {
+  .container {
+      display: block;
+      padding: 0 5%;
+      max-width: 960px;
+      margin: 0 auto;
+  }
+}
