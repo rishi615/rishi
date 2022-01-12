@@ -1,3 +1,2 @@
 # rishi-bodke
-A Simple Portfolio Website: rishi698.github.io/rishi/
-Cancel changes
+A Simple Portfolio Website: https://rishi698.github.io/rishi/
