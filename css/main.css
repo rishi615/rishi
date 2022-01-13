@@ -1,3 +1,8 @@
+/*Author Image*/
+#author-img{
+    max-width: 100%; 
+    height: auto; 
+}
 /* Social Icons Styling */
 hr {border-top: 1px solid rgba(0,0,0,0.36);}
 
