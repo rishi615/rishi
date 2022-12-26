@@ -1,2 +1,2 @@
 # rishi-bodke
-A Simple Portfolio Website: https://rishi698.github.io/rishi/
+A Simple Portfolio Website: https://rishi615.github.io/rishi/
